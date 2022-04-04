@@ -19,12 +19,18 @@ nav a{
     text-transform: uppercase;
     text-decoration: none;
     color: #161616;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 18px;
     margin-right: 35px;
     padding-bottom: 10px;
+    letter-spacing: 1px;
 }
 nav a:hover{
     color: #FF3142;
-    border-bottom: 5px solid #FF3142;
+    border-bottom: 3px solid #FF3142;
+}
+
+nav a.active{
+   color: #FF3142;
+    border-bottom: 3px solid #FF3142;
 }

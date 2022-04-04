@@ -16,14 +16,19 @@
 .text-banner span{
     color: #FF3142;
 }
-.text-banner button{
+.btn{
     outline: none;
+    background: none;
     border: 1px solid #FF3142;
     border-radius: 30px;
-    padding: 15px 40px;
-    font-size: 15px;
+    padding: 15px 30px;
+    font-size: 14px;
     text-transform: uppercase;
     font-weight: 600;
+    letter-spacing: 1px;
+}
+.btn-black{
+    border: 1px solid #222;
 }
 .img-banner img{
     width: 600px;

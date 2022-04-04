@@ -1,0 +1,36 @@
+.review-full{
+    padding: 50px 0;
+}
+.review-full h2{
+    color: #222;
+    text-align: center;
+    padding-bottom: 25px;
+    text-transform: uppercase;
+}
+.review-area{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.single-review{
+    text-align: center;
+    padding: 30px;
+    border: 1px solid #222;
+    border-radius: 5px;
+    margin: 30px;
+}
+.single-review img{
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+.single-review p{
+    color: #333;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+}
+.single-review h3{
+    text-transform: uppercase;
+    font-size: 16px;
+    color: #444;
+}
