@@ -1,10 +1,30 @@
+.container{ 
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.header-area{
+    min-height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo img{
+    width: 40px;
+    height: 40px;
+
+}
 nav a{
     font-family: sans-serif;
+    text-transform: uppercase;
     text-decoration: none;
     color: #161616;
-    font-size: 20px;
-    margin-right: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    margin-right: 35px;
+    padding-bottom: 10px;
 }
 nav a:hover{
     color: orange;
+    border-bottom: 5px solid orange;
 }
