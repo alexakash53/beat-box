@@ -36,7 +36,7 @@
     "Name": "John Nill",
     "rating": 3,
     "Review": "The true wireless Beats Studio Buds deliver thunderous bass depth matched by crisp highs for a balanced mix, with decent noise cancellation for a reasonable price.",
-    "img": "https://i.ibb.co/9s1nQZS/client-7.png"
+    "img": "https://i.ibb.co/WzHHs5x/client-11.png"
   },
 
   {
@@ -52,7 +52,47 @@
     "Name": "Andreo Sangma",
     "rating": 4,
     "Review": "The true wireless Beats Studio Buds deliver thunderous bass depth matched by crisp highs for a balanced mix, with decent noise cancellation for a reasonable price.",
-    "img": "https://drive.google.com/drive/u/3/folders/12How1FvaiJsbAA1ihugTMWz1usbpk3La"
+    "img": "https://i.ibb.co/vc6YZ83/client-5.png"
+  },
+
+  {
+    "id": "08",
+    "Name": "Sansa Stark",
+    "rating": 3,
+    "Review": "The true wireless Beats Studio Buds deliver thunderous bass depth matched by crisp highs for a balanced mix, with decent noise cancellation for a reasonable price.",
+    "img": "https://i.ibb.co/9pQMxzp/client-2.png"
+  },
+
+  {
+    "id": "09",
+    "Name": "Allen Paul",
+    "rating": 5,
+    "Review": "The true wireless Beats Studio Buds deliver thunderous bass depth matched by crisp highs for a balanced mix, with decent noise cancellation for a reasonable price.",
+    "img": "https://i.ibb.co/tDPjDVc/client-10.png"
+  },
+
+  {
+    "id": "10",
+    "Name": "Liza Rozario",
+    "rating": 4,
+    "Review": "The true wireless Beats Studio Buds deliver thunderous bass depth matched by crisp highs for a balanced mix, with decent noise cancellation for a reasonable price.",
+    "img": "https://i.ibb.co/JdP3zqh/client-14.png"
+  },
+
+  {
+    "id": "11",
+    "Name": "K.G Gourge",
+    "rating": 3,
+    "Review": "The true wireless Beats Studio Buds deliver thunderous bass depth matched by crisp highs for a balanced mix, with decent noise cancellation for a reasonable price.",
+    "img": "https://i.ibb.co/brsDnQD/client-9.png"
+  },
+
+  {
+    "id": "12",
+    "Name": "Meishe Willam",
+    "rating": 5,
+    "Review": "The true wireless Beats Studio Buds deliver thunderous bass depth matched by crisp highs for a balanced mix, with decent noise cancellation for a reasonable price.",
+    "img": "https://i.ibb.co/JrZqJ9z/client-13.png"
   }
 
 ]
