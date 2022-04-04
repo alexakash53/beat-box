@@ -13,7 +13,13 @@
     color: #555;
     line-height: 1.5;
 }
+.text-banner span{
+    color: #FF3142;
+}
 .text-banner button{
+    outline: none;
+    border: 1px solid #FF3142;
+    border-radius: 30px;
     padding: 15px 40px;
     font-size: 15px;
     text-transform: uppercase;
