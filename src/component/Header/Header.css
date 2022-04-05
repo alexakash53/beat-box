@@ -15,15 +15,13 @@
 
 }
 nav a{
-    font-family: sans-serif;
     text-transform: uppercase;
     text-decoration: none;
     color: #161616;
-    font-weight: 500;
+    font-weight: 600;
     font-size: 18px;
     margin-right: 35px;
     padding-bottom: 10px;
-    letter-spacing: 1px;
 }
 nav a:hover{
     color: #FF3142;

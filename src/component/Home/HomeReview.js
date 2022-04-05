@@ -24,7 +24,7 @@ const HomeReview = () => {
             }
             </div>
             <div style={{textAlign:'center',marginTop:'20px',}}>
-                <Link to='Review'><button className="btn btn-black">See All Reviews</button></Link>
+                <Link to='Review'><button className="btn btn-black">View All Reviews</button></Link>
             </div>
         </div>
     );

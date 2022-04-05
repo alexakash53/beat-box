@@ -1,0 +1,9 @@
+.chat-area{
+    padding: 80px 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+}
+.single-chart{
+    margin: 0 auto;
+}
