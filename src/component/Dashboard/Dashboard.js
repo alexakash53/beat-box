@@ -51,6 +51,7 @@ const Dashboard = () => {
         <div className='container'>
             <div className="chat-area">
                 <div className="single-chart">
+                    <h2> Month Wise Sell</h2>
                      <LineChart
                         width={600}
                         height={350}
@@ -74,6 +75,7 @@ const Dashboard = () => {
                      </LineChart>
                 </div>
                 <div className="single-chart">
+                    <h2>Sell vs Revenue</h2>
                     <PieChart width={300} height={300}>
                         <Pie data={data} dataKey="sell" cx="50%" cy="50%" outerRadius={60} fill="#8884d8" />
                         <Pie data={data} dataKey="week" cx="50%" cy="50%" innerRadius={70} outerRadius={90} fill="#82ca9d" label />
